@@ -1,0 +1,5 @@
+matplotlib==3.10.8
+Pillow==12.1.0
+plotly==6.5.0
+pymupdf==1.26.7
+streamlit==1.52.2
