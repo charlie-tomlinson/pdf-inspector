@@ -12,7 +12,7 @@ A short, practical guide on how to use and customize the app. 
 
 ## Use The Deployed App
 
-* Follow this link: `https://your-deploy-link.example`
+* Follow this link: [https://pdf-inspector.streamlit.app/]
 
   This is the fastest way to see the app working without installing anything.
 
