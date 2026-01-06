@@ -30,28 +30,15 @@ Clone the official repository with SSH or HTTPS.
 
 ```bash
 # SSH
-git clone git@github.com:<owner>/<repo>.git
+git clone git@github.com:charlie-tomlinson/pdf-inspector.git
 cd <repo>
 
 # or HTTPS
-git clone https://github.com/<owner>/<repo>.git
+git clone https://github.com/charlie-tomlinson/pdf-inspector.git
 cd <repo>
 ```
 
-#### 2) Fork (for contributors)
-
-Fork the repository on GitHub, then clone your fork locally to make changes and push branches.
-
-```bash
-# after forking on GitHub
-git clone git@github.com:<your-github-username>/<repo>.git
-cd <repo>
-
-# create a feature branch
-git checkout -b feature/describe-change
-```
-
-#### 3) Download
+#### 2) Download
 
 If you do not want to use Git, download the repository as a ZIP from GitHub (Code → Download ZIP), unzip the archive, and open the extracted folder.
 
